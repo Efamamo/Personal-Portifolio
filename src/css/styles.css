@@ -213,6 +213,10 @@ footer button:hover{
 
 }
 
+.projects h1{
+    margin: 0;
+}
+
 
 .web-p div,.mobile-p div{
     margin-bottom: 80px;
